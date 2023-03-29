@@ -1,2 +1,0 @@
-# Caiorep
-imagens docker
